@@ -1,0 +1,10 @@
+Package: ZurrCode
+Title: Load Zurr code
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Load packages from Zurr book 
+Depends: R (>= 3.2.2)
+License: MIT
+LazyData: true
+Imports: dplyr,
+    gstat
